@@ -730,5 +730,15 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "alzheimers_qa": {
+    "file_name": "alzheimers_qa.json",
+    "formatting": "alpaca",
+    "columns": {
+    "prompt": "instruction",
+    "query": "input",
+    "response": "output"
   }
+  }
+  
 }

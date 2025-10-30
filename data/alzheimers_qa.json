@@ -1,0 +1,202 @@
+[
+    {
+      "output": "Alzheimer's disease is a progressive neurological disorder that causes memory loss, cognitive decline, and behavioral changes.",
+      "input": "What is Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Early signs may include forgetfulness, difficulty completing familiar tasks, confusion, and changes in mood or personality.",
+      "input": "What are the early signs of Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "The exact cause is not fully understood, but it is believed to involve a combination of genetic, environmental, and lifestyle factors.",
+      "input": "What causes Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While genetics can play a role, most cases of Alzheimer's disease are not directly inherited. However, having a family history of the disease can increase the risk.",
+      "input": "Is Alzheimer's disease hereditary?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Diagnosis typically involves a thorough medical history, physical examination, neurological tests, and assessments of cognitive function.",
+      "input": "How is Alzheimer's disease diagnosed?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While there is no known way to prevent Alzheimer's disease entirely, adopting a healthy lifestyle may help reduce the risk.",
+      "input": "Can Alzheimer's disease be prevented?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Dementia is a broad term that refers to a decline in cognitive function, while Alzheimer's disease is a specific type of dementia characterized by certain pathological changes in the brain.",
+      "input": "What is the difference between Alzheimer's disease and dementia?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease typically progresses in stages, starting with mild memory loss and eventually leading to severe impairment in daily functioning.",
+      "input": "How does Alzheimer's disease progress?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease is generally classified into early-onset and late-onset forms, with early-onset typically occurring before the age of 65 and late-onset occurring later in life",
+      "input": "Are there different types of Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Currently, there is no cure for Alzheimer's disease. Treatment focuses on managing symptoms and improving quality of life.",
+      "input": "Is there a cure for Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Medications such as cholinesterase inhibitors and memantine are commonly prescribed to help manage cognitive symptoms and improve daily functioning.",
+      "input": "What medications are used to treat Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While there is no way to reverse the underlying pathology of Alzheimer's disease, certain treatments may help temporarily improve symptoms or slow the progression of the disease.",
+      "input": "Can Alzheimer's disease be reversed?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Age, family history, genetics, head injuries, and certain health conditions such as cardiovascular disease are among the known risk factors for Alzheimer's disease.",
+      "input": "What are the risk factors for Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "The progression of Alzheimer's disease varies from person to person, but on average, individuals may live anywhere from 3 to 20 years after diagnosis.",
+      "input": "How long can a person live with Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While engaging in mentally stimulating activities may help maintain cognitive function, there is no conclusive evidence that brain exercises can prevent Alzheimer's disease",
+      "input": "Can Alzheimer's disease be prevented through brain exercises?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "A healthy diet rich in fruits, vegetables, whole grains, and omega-3 fatty acids may help reduce the risk of Alzheimer's disease and support overall brain health.",
+      "input": "What role does diet play in Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can cause changes in behavior such as agitation, aggression, wandering, and mood swings, particularly in later stages of the disease.",
+      "input": "How does Alzheimer's disease affect behavior?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease itself is not typically considered a direct cause of death, but complications such as infections or difficulty swallowing can lead to life-threatening situations.",
+      "input": "Is Alzheimer's disease fatal?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Currently, there is no single blood test that can definitively diagnose Alzheimer's disease. Diagnosis typically involves a combination of clinical assessments and imaging studies.",
+      "input": "Can Alzheimer's disease be detected through a blood test?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While genetics can increase the risk of developing Alzheimer's disease, most cases are not directly inherited. Certain genes, such as the APOE gene, are associated with an increased risk.",
+      "input": "What role do genetics play in Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, Alzheimer's disease can occur in younger individuals, although it is less common. This is referred to as early-onset Alzheimer's disease.",
+      "input": "Can Alzheimer's disease affect younger people?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can significantly impact daily life by causing memory loss, confusion, difficulty with language and communication, and challenges with completing routine tasks.",
+      "input": "How does Alzheimer's disease impact daily life?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Chronic stress may contribute to cognitive decline and increase the risk of developing Alzheimer's disease, but it is not considered a direct cause.",
+      "input": "Can stress cause Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can disrupt sleep patterns, leading to difficulty falling asleep, frequent awakenings during the night, and daytime sleepiness.",
+      "input": "How does Alzheimer's disease affect sleep patterns?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, there are numerous support groups and resources available for caregivers of individuals with Alzheimer's disease to provide information, education, and emotional support.",
+      "input": "Are there support groups for caregivers of individuals with Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease is not contagious and cannot be transmitted through casual contact or interactions with someone who has the disease.",
+      "input": "Can Alzheimer's disease be transmitted from person to person?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "While it is not currently possible to diagnose Alzheimer's disease before symptoms appear, researchers are exploring biomarkers and imaging techniques that may help identify individuals at risk.",
+      "input": "Can Alzheimer's disease be diagnosed before symptoms appear?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can impair communication by causing difficulty finding words, understanding language, following conversations, and expressing thoughts coherently.",
+      "input": "How does Alzheimer's disease affect communication?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Regular physical exercise may help improve cognitive function, mood, and overall well-being in individuals with Alzheimer's disease.",
+      "input": "What is the role of exercise in managing Alzheimer's disease?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, hallucinations and delusions can occur in individuals with Alzheimer's disease, particularly in later stages of the disease.",
+      "input": "Can Alzheimer's disease cause hallucinations?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can impair the sense of smell, leading to decreased ability to detect odors and changes in taste perception.",
+      "input": "How does Alzheimer's disease affect the sense of smell?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Brain imaging techniques such as MRI and PET scans can help detect certain changes in the brain associated with Alzheimer's disease, but they are not used as standalone diagnostic tests.",
+      "input": "Can Alzheimer's disease be diagnosed through brain imaging?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Seizures are not a common symptom of Alzheimer's disease, but they can occur in some individuals, particularly in advanced stages of the disease.",
+      "input": "Can Alzheimer's disease cause seizures?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's disease can affect appetite by causing changes in taste perception, difficulty chewing or swallowing, and forgetting to eat or recognizing hunger cues.",
+      "input": "How does Alzheimer's disease affect appetite?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, depression is a common symptom of Alzheimer's disease, affecting both individuals with the disease and their caregivers.",
+      "input": "Can Alzheimer's disease cause depression?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Poor cardiovascular health, including conditions such as high blood pressure, diabetes, and high cholesterol, is associated with an increased risk of developing Alzheimer's disease.",
+      "input": "What is the link between Alzheimer's disease and cardiovascular health?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, incontinence (loss of bladder or bowel control) can occur in individuals with Alzheimer's disease, particularly in later stages of the disease.",
+      "input": "Can Alzheimer's disease cause incontinence?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Alzheimer's can mess with how people see things, making it hard to recognize faces, judge distances, or read. They might even see things that aren't there. Caregivers should be aware of these changes and offer support.",
+      "input": "How does Alzheimer's disease affect vision?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, wandering is a common behavior in individuals with Alzheimer's disease, especially in later stages, and it can pose safety risks.",
+      "input": "Can Alzheimer's disease cause wandering?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    },
+    {
+      "output": "Yes, Alzheimer's disease can affect coordination and balance, leading to difficulties with walking, standing, and performing activities that require motor skills.",
+      "input": "Can Alzheimer's disease cause difficulty with coordination and balance?",
+      "instruction": "You are a virtual assistant who answer's users question about the Alzheimer disease. Do not engage in any conversation not related to the Alzheimer. You answer should be clear, and do not exceed 200 words."
+    }
+  ]
